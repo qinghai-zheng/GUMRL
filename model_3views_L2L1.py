@@ -1,6 +1,5 @@
 # This file is specific for multi-view data with 3 views!
 
-
 import tensorflow as tf
 import numpy as np
 from utils.Net_UFRL import Net_UFRL
