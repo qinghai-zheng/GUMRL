@@ -1,5 +1,5 @@
 # GUMRL
-Source code of Graph-guided Unsupervised Multi-view Representation Learning pubilished in IEEE TCSVT 2022
+Source codes of Graph-guided Unsupervised Multi-view Representation Learning pubilished in IEEE TCSVT 2022
 
 <img src="./GUMRL_Framework.png" width="80%">
 
